@@ -17,6 +17,7 @@
 ## Dong
 
 ## Bongf
+작성되는지 확인 
 
 ## Jung
 ## Sky
